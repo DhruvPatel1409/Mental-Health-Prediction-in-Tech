@@ -17,7 +17,6 @@
 - Since the dataset contains categorical variables, they need to be converted into numerical format for machine learning models.
 - The following encoding techniques are used:
   - `LabelEncoder`: Converts categorical labels into integers.
-  - `OneHotEncoder`: Used for categorical variables with multiple unique values to prevent ordinality issues.
 - The final dataset contains a mix of encoded categorical and numerical features.
 
 ### 4. Feature Scaling
